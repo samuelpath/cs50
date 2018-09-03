@@ -1,3 +1,5 @@
+// Instructuions: https://docs.cs50.net/2018/x/psets/2/crack/crack.html
+
 #define _XOPEN_SOURCE
 #define POSSIBLE_CHARS "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 #define MAX_CHARS_IN_PWD 5
